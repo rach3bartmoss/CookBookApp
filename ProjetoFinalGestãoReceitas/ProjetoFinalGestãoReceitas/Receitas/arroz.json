@@ -1,0 +1,15 @@
+{
+  "nome": "arroz",
+  "tempoDePrep": 20,
+  "pessoas": 3,
+  "modoDePrep": "fogo baixo",
+  "categoria": "Especial",
+  "nivel": "Iniciante",
+  "IngredientesLocalList": [
+    {
+      "ingrediente": "arrox",
+      "quantidade": 1,
+      "medida": "(Kg)"
+    }
+  ]
+}

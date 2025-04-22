@@ -1,0 +1,20 @@
+{
+  "nome": "febras",
+  "tempoDePrep": 450,
+  "pessoas": 4,
+  "modoDePrep": "adsda",
+  "categoria": "Porco",
+  "nivel": "Intermédio",
+  "IngredientesLocalList": [
+    {
+      "ingrediente": "provo",
+      "quantidade": 1,
+      "medida": "(Kg)"
+    },
+    {
+      "ingrediente": "protoco",
+      "quantidade": 4,
+      "medida": "(Litros)"
+    }
+  ]
+}

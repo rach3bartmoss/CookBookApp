@@ -1,0 +1,15 @@
+{
+  "nome": "empadao",
+  "tempoDePrep": 190,
+  "pessoas": 1,
+  "modoDePrep": "fiafa",
+  "categoria": "Vaca",
+  "nivel": "Avançado",
+  "IngredientesLocalList": [
+    {
+      "ingrediente": "dada",
+      "quantidade": 150,
+      "medida": "(Litros)"
+    }
+  ]
+}

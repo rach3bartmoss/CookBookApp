@@ -1,0 +1,30 @@
+{
+  "nome": "grelhado misto",
+  "tempoDePrep": 60,
+  "pessoas": 4,
+  "modoDePrep": "fogão",
+  "categoria": "Porco",
+  "nivel": "Intermédio",
+  "IngredientesLocalList": [
+    {
+      "ingrediente": "porco",
+      "quantidade": 500,
+      "medida": "(g)"
+    },
+    {
+      "ingrediente": "salsichas",
+      "quantidade": 300,
+      "medida": "(g)"
+    },
+    {
+      "ingrediente": "arroz ",
+      "quantidade": 200,
+      "medida": "(g)"
+    },
+    {
+      "ingrediente": "carne de vaca",
+      "quantidade": 700,
+      "medida": "(g)"
+    }
+  ]
+}
