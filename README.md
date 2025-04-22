@@ -1,7 +1,7 @@
 # CookBookApp
 A windows forms app to save, edit and visualize cuisine recipes.
 
-
+(PORTUGUESE)
 O projeto final visa criar uma aplicação de gestão de receitas e contém as seguintes funcionalidades:
 	* criação de receitas
 	* edição de receitas existentes
